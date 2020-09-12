@@ -7,7 +7,10 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@firebase/database": "^0.6.12",
     "core-js": "^3.6.5",
+    "element-ui": "^2.13.2",
+    "firebase": "^7.20.0",
     "vue": "^2.6.11",
     "vue-class-component": "^7.2.3",
     "vue-property-decorator": "^8.4.2",
